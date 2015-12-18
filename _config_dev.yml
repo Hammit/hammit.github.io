@@ -1,0 +1,14 @@
+# Site settings
+title: Hammit's Dev Blog
+email: byron_hammond@yahoo.com.au
+description: > # this means to ignore newlines until "baseurl:"
+  Here you'll find a small and simple blog for documenting various things I
+  find of interest in the I.T. world.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: ByronHammit
+github_username:  Hammit
+
+# Build settings
+include: ['_pages']
+markdown: kramdown
