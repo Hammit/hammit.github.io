@@ -9,6 +9,10 @@ url: "http://hammit.github.io" # the base hostname & protocol for your site
 twitter_username: ByronHammit
 github_username:  Hammit
 
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme
+
 # Build settings
 include: ['_pages']
 markdown: kramdown
