@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hashicorp Vagrant in WSL2"
+title:  "Hashicorp Vagrant in WSL2 (WIP)"
 date:   2024-12-27 3:24:08 PM
 categories: vagrant wsl wsl2 docker windows ubuntu
 ---
